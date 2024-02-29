@@ -15,7 +15,7 @@
           <td>Kamaz-6520</td>
           <td>20.00 tonna</td>
           <td>
-            <p>{{ $t('table.normalShipping') }} - 130.00</p>
+            <p>{{ $t('table.normalShipping') }} - 140.00</p>
             <p>{{ $t('table.dangerousGoods') }} - 180.00</p>
           </td>
         </tr>
